@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/conativehome/static/css/main.91a982d1.css",
-    "main.js": "/conativehome/static/js/main.680be607.js",
+    "main.js": "/conativehome/static/js/main.2b198c6e.js",
     "static/media/process_bg.png": "/conativehome/static/media/process_bg.95a72f7d500059e5726c.png",
     "static/media/ExtraBold.svg": "/conativehome/static/media/ExtraBold.a9ff0a0a043e0f6060ab.svg",
     "static/media/Mundial-Demibold.otf": "/conativehome/static/media/Mundial-Demibold.f86bbfa0fbcbf6810ae9.otf",
@@ -36,10 +36,10 @@
     "static/media/project_view_more_btn.svg": "/conativehome/static/media/project_view_more_btn.01128b9cc308dc7e3293.svg",
     "static/media/footer_listing_icon.svg": "/conativehome/static/media/footer_listing_icon.3ca4b22060f4c08cf3a8.svg",
     "main.91a982d1.css.map": "/conativehome/static/css/main.91a982d1.css.map",
-    "main.680be607.js.map": "/conativehome/static/js/main.680be607.js.map"
+    "main.2b198c6e.js.map": "/conativehome/static/js/main.2b198c6e.js.map"
   },
   "entrypoints": [
     "static/css/main.91a982d1.css",
-    "static/js/main.680be607.js"
+    "static/js/main.2b198c6e.js"
   ]
 }
