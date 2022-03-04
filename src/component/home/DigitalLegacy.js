@@ -60,10 +60,7 @@ function DigitalLegacy() {
                 <div className="digital-slider">
                   {img.map((post, index) => (
                     <div className="digital-slider-cls" key={index}>
-                      <img
-                        src="https://test-nodelive.herokuapp.com/uploads/2022-02-04T14:02:22.262Zget-creator-img.jpg"
-                        alt="About Slider"
-                      />
+                      <img src={post.url} alt="About Slider" />
                     </div>
                   ))}
                 </div>

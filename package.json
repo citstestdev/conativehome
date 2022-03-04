@@ -1,7 +1,6 @@
 {
   "name": "conative",
   "proxy": "https://test-nodelive.herokuapp.com/",
-  "homepage": "https://citstestdev.github.io/conativejs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

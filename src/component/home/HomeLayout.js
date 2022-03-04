@@ -15,6 +15,12 @@ function HomeLayout() {
   return (
     <div className="wrapper full-page">
       <Home />
+      <DigitalLegacy />
+      <ProjectSection />
+      <Expertise />
+      <OurProjects />
+      <ProcessSection />
+      <ClientDetailsSection />
     </div>
   );
 }

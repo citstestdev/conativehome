@@ -13,7 +13,7 @@ function Header() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch(backendurl + "show-social")
+    fetch(backendurl + "option-show")
       .then((response) => response.json())
       .then((data) => setData(data));
   }, []);
@@ -24,10 +24,7 @@ function Header() {
         <div className="header-area clearfix">
           <div className="logo-block left">
             <Link to="/home">
-              <img
-                src="http://localhost:5000/images/resize-logo.png"
-                alt="Conative It Solutions Logo"
-              />
+              <img src={data.image} alt="Conative It Solutions Logo" />
             </Link>
           </div>
           <div className="header-contact-content right">
